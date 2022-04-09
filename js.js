@@ -11,3 +11,4 @@ const a = prompt('oxirgi ko`rgan yangilingizlaridan biri'),
     b = prompt("Unga qancha baho bergan bo`lardiz");
 personaNewsDB.news[a] = b;
 console.log(personaNewsDB);
+alert
